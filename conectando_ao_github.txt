@@ -1,0 +1,3 @@
+Para conectar-se ao Github, você primeiro deve criar a sua conta no site ou no aplicativo.
+A autenticação por senhas do Github foi alterada e, por isso, é necessário seguir o procedimento descrito no vídeo a seguir:
+https://www.youtube.com/watch?v=pOP2S2PPkHE&_gl=1*swsiod*_ga*MTU0Njk0MDM1My4xNjg3NTU0MzU2*_ga_37GXT4VGQK*MTY5MDU0MjY1OS4xNjYuMS4xNjkwNTQ2MDAxLjAuMC4w
