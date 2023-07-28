@@ -1,0 +1,9 @@
+O Git é um sistema de controle de versão de arquivos. Ele é responsável por registrar as diferentes modificações de arquivos e contribui na recuperação de versões específicas. 
+Há três áreas importantes de se destacar para conhecer o Git:
+1 - Working Directory (/project)
+2 - Staging Directory (/project/.git/index): área temporária de arquivos
+3 - Repository (project/.git/object)
+Para que o arquivo passe da área 1 para a área 2, devemos realizar um "git add", assim ele estará na área de seleção; para que o arquivo passe da área 2 para a área 3, realizamos um "git commit -m ''";
+por fim, para que o arquivo vá da área 3 para a área 1, realizamos um "git checkout". 
+
+Já o Github é um serviço para hospedar projetos Git. Funciona como um portfólio online. 
