@@ -1,0 +1,3 @@
+As branchs servem para desenvolvermos features isolados. Através delas, criamos projetos 'paralelos', em que a branch master/main é a principal. 
+Imagine uma branch como uma árvore. O caule é a branch main e os seus galhos são as outras branchs secundárias que são independentes entre si.
+Com as branchs, dessa forma, podemos criar uma ramificação do código, fazendo alterações que não causarão problemas futuros. Assim, caso você precise testar uma função de um programa isoladamente, será possível e este se manterá estável.
