@@ -1,0 +1,12 @@
+Os principais comandos para utilizarmos o Git e o Github são:
+- mkdir: serve para criar uma pasta;
+- cd: com ele, entramos em uma pasta;
+- ls: lista e mostra conteúdo;
+- pwd: revela qual pasta está no console;
+- touch: cria um arquivo novo ou atualiza um arquivo já existente;
+- cat: captura conteúdo;
+- less: exibe o conteúdo de arquivos;
+- mv: move um conteúdo;
+- clear: limpa o terminal;
+- history: lista os últimos comandos que foram realizados no terminal;
+- exit: fecha o terminal.
