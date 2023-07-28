@@ -1,0 +1,11 @@
+Para a instalação do Git, devemos seguir as instruções do site a seguir: https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
+Quando instalado, devemos configurá-lo da seguinte forma: 
+- git config --global user.name "nome do usuário" "sobrenome do usuário" (com esse comando, você irá gravar o seu nome no terminal)
+- git config --global user.email "email do usuário" (esse comando gravará o seu email)
+Por fim, para sabermos se funcionou, podemos digitar: git config --list
+
+Através dessa configuração, você personalizará o seu ambiente. Não é necessário repetí-la, a não ser que você deseje mudar alguma informação. Para isso, é só repetir o comando.
+
+Observação: para que o VSCode seja aberto diretamente do terminal, tive que configurá-lo:
+- Devemos entrar no VSCode e digitar na paleta de comandos: >shell command: install 'code' command in PATH
+- Por fim, ao digitarmos "code . " no terminal do computador, iremos ter acesso ao VSCode.
